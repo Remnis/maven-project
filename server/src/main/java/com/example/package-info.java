@@ -1,8 +1,5 @@
 /**
-*  This is a package name
-*  @since 1.0
-*  @author jwhite
-*  @version 1.1
+*  This is a package name.
 */
 
 package com.example;
